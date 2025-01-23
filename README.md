@@ -1,3 +1,4 @@
+![](EFIcontrol-header.png)
 # Mount and Unmount EFI Partitions on macOS  
 **EFI Control** is undergoing a complete rebuild from the ground up. Stay tuned for exciting updates as we enhance the app to improve functionality and design.
 
