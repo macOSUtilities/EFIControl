@@ -10,6 +10,6 @@
 - Since MountEFI utilizes Python, **EFI Control** may require Python to function. If needed, we will provide a lightweight, user-friendly Python installation option.
 - **Bugs and feedback** can be reported via the [Issues tab](https://github.com/macOSUtilities/EFIcontrol/issues) on our GitHub repository.
 - All app windows will feature a sleek, translucent background—similar to Safari’s default background and the sidebars in many macOS system apps.
-The new app icon:
+- The new app icon:
 ![EFI Control app icon](https://i.imgur.com/BDFQAPb.png)
 ---
