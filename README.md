@@ -5,7 +5,7 @@
 
 ## Latest Updates
 
-- The new **app)p intrface** will be designed entirely in **SwiftUI**, ensuring a clean, macOS-native experience.
+- The new **app interface** will be designed entirely in **SwiftUI**, ensuring a clean, macOS-native experience.
 - **Command functionality** will probably be based on CorpNewt's [MountEFI](https://github.com/CorpNewt/MountEFI) script.
 - Since MountEFI utilizes Python, **EFI Control** may require Python to function. If needed, we will provide a lightweight, user-friendly Python installation option.
 - **Bugs and feedback** can be reported via the [Issues tab](https://github.com/macOSUtilities/EFIcontrol/issues) on our GitHub repository.
