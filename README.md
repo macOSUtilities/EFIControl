@@ -13,4 +13,5 @@
 - All app windows will feature a sleek, translucent background—similar to Safari’s default background and the sidebars in many macOS system apps.
 - The new app icon:
 ![EFI Control app icon](https://i.imgur.com/BDFQAPb.png)
+- We will integrate EFI Control into our other upcoming app, OpenCore Configurator.
 ---
